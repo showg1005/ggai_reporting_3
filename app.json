@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "人流アノマリー分析",
+    "slug": "crowd-anomaly-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#0f172a"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.locationmind.crowdanomaly"
+    },
+    "android": {
+      "package": "com.locationmind.crowdanomaly",
+      "adaptiveIcon": {
+        "backgroundColor": "#0f172a"
+      }
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
